@@ -13,6 +13,7 @@ app.use(
       "http://localhost:5173",
       "https://ai-product-visualizer-server-1.onrender.com",
       "https://ai-product-visualizer.vercel.app",
+      "ai-product-visualizer-git-main-anirudhs-projects-9ebcee76.vercel.app"
     ],
   })
 );
