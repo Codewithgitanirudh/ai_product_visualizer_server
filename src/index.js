@@ -12,6 +12,7 @@ app.use(
     origin: [
       "http://localhost:5173",
       "https://ai-product-visualizer-server-1.onrender.com",
+      "https://ai-product-visualizer.vercel.app",
     ],
   })
 );
