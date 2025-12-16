@@ -12,7 +12,7 @@ export const generateChat = async (req, res) => {
           "Content-Type": "application/json",
         },
         body: JSON.stringify({
-          model: "x-ai/grok-4.1-fast:free",
+          model: "tngtech/deepseek-r1t2-chimera:free",
           messages: messages,
           reasoning: { enabled: true },
         }),
